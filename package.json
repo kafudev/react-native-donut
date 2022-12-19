@@ -1,6 +1,6 @@
 {
   "name": "react-native-donut",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "react-native上的Donut多端框架插件，支持使用小程序原生语法开发移动应用的框架，开发者可以一次编码，分别编译为小程序和 Android 以及 iOS 应用，实现多端开发",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
